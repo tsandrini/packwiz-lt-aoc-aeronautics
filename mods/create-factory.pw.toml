@@ -1,0 +1,13 @@
+name = "Create: Factory"
+filename = "create_factory-0.5a-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7240b4ab63fac6d4ea8fd7ef6576c1663072f2d2"
+url = "https://mediafilez.forgecdn.net/files/7397/57/create_factory-0.5a-1.21.1.jar"
+
+[update]
+[update.curseforge]
+file-id = 7397057
+project-id = 623265

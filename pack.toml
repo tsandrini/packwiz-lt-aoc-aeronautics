@@ -1,0 +1,13 @@
+name = "blehbundle-aoc-aeronautics"
+author = "tsandrini"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9e12aa2c30bcf87ef4a765c5f7c3e2f764566eef94a65b3cb25fbb38e254f3e6"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"

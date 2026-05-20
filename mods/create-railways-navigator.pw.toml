@@ -1,0 +1,13 @@
+name = "Create Railways Navigator"
+filename = "createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "749db1461e6ebca5a72154b2c75e14da82f64eb2"
+url = "https://mediafilez.forgecdn.net/files/8017/355/createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6.jar"
+
+[update]
+[update.curseforge]
+file-id = 8017355
+project-id = 935929

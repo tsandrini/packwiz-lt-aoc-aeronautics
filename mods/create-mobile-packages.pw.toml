@@ -1,0 +1,13 @@
+name = "Create: Mobile Packages"
+filename = "create_mobile_packages-1.21.1-0.7.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69f0fa17e88b0b9f6a372df478811c71c9b3ef2f"
+url = "https://mediafilez.forgecdn.net/files/8059/964/create_mobile_packages-1.21.1-0.7.6.jar"
+
+[update]
+[update.curseforge]
+file-id = 8059964
+project-id = 1232978

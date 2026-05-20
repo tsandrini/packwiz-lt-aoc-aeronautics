@@ -1,0 +1,13 @@
+name = "Create: Mob Spawners"
+filename = "create_mob_spawners-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43f6627a7670c0053f76127eac51d0ff2985ce9e"
+url = "https://mediafilez.forgecdn.net/files/7342/352/create_mob_spawners-1.0.0.jar"
+
+[update]
+[update.curseforge]
+file-id = 7342352
+project-id = 1175578

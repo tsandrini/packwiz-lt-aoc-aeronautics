@@ -1,0 +1,13 @@
+name = "Create: Rubberworks"
+filename = "rubberworks-neoforge-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "891d8a0d466552dad08e03013bd2a1bdf36632f4"
+url = "https://mediafilez.forgecdn.net/files/7906/535/rubberworks-neoforge-1.21.1-1.1.1.jar"
+
+[update]
+[update.curseforge]
+file-id = 7906535
+project-id = 1425758

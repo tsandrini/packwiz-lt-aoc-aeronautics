@@ -1,0 +1,13 @@
+name = "Gallery"
+filename = "gallery-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b70093c91dd290b7defc81905054aa445ecd752"
+url = "https://mediafilez.forgecdn.net/files/6449/910/gallery-1.21.1-2.0.0.jar"
+
+[update]
+[update.curseforge]
+file-id = 6449910
+project-id = 1173553

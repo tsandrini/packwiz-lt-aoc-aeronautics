@@ -1,0 +1,13 @@
+name = "e4mc"
+filename = "e4mc-neoforge-6.1.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "043f7ef49a74f9f51c1612df4ca0889ba71f1d0e"
+url = "https://mediafilez.forgecdn.net/files/7843/800/e4mc-neoforge-6.1.0.jar"
+
+[update]
+[update.curseforge]
+file-id = 7843800
+project-id = 849519

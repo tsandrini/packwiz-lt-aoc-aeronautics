@@ -1,0 +1,13 @@
+name = "All of Create Core"
+filename = "Aoc_Core_1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0c9c38ef65f34aa5d0bb11a32353453ab3c3cec"
+url = "https://mediafilez.forgecdn.net/files/7571/852/Aoc_Core_1.21.jar"
+
+[update]
+[update.curseforge]
+file-id = 7571852
+project-id = 1288893

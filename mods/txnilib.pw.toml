@@ -1,0 +1,13 @@
+name = "TxniLib"
+filename = "txnilib-neoforge-1.0.24-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17b1bbb96e922e683a1807a2e7bece603fdc491d"
+url = "https://mediafilez.forgecdn.net/files/6533/725/txnilib-neoforge-1.0.24-1.21.1.jar"
+
+[update]
+[update.curseforge]
+file-id = 6533725
+project-id = 1104882

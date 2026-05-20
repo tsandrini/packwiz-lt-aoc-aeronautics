@@ -1,0 +1,13 @@
+name = "Create: Mechanical Botany"
+filename = "mechanical_botany-1.1.2+1.21.1-neoforged.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1169b513f23736248484e2c3d1f9de9fe2dfc00e"
+url = "https://mediafilez.forgecdn.net/files/7768/438/mechanical_botany-1.1.2%2B1.21.1-neoforged.jar"
+
+[update]
+[update.curseforge]
+file-id = 7768438
+project-id = 1276978

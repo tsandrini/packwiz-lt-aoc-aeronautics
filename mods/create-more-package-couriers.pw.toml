@@ -1,0 +1,13 @@
+name = "Create More: Package Couriers"
+filename = "cmpackagecouriers-neoforge-2.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ef2d240c8fdc329f2b911b9c847dfd33a18e28b"
+url = "https://mediafilez.forgecdn.net/files/8038/454/cmpackagecouriers-neoforge-2.2.4.jar"
+
+[update]
+[update.curseforge]
+file-id = 8038454
+project-id = 1319223

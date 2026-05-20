@@ -1,0 +1,13 @@
+name = "Create: Tracks - Fix edition"
+filename = "tracks-neoforge-1_21_1-1_0_1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "afdc6686382acece3a3e4ec20d4b8ffde58ba638"
+url = "https://mediafilez.forgecdn.net/files/8075/271/tracks-neoforge-1_21_1-1_0_1.jar"
+
+[update]
+[update.curseforge]
+file-id = 8075271
+project-id = 1538085

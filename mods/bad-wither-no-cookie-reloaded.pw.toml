@@ -1,0 +1,13 @@
+name = "Bad Wither No Cookie - Reloaded"
+filename = "bwncr-neoforge-1.21.1-3.20.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "acd114fabe85bf819087c8fc9a5db6306ffb4b31"
+url = "https://mediafilez.forgecdn.net/files/7977/568/bwncr-neoforge-1.21.1-3.20.4.jar"
+
+[update]
+[update.curseforge]
+file-id = 7977568
+project-id = 261251

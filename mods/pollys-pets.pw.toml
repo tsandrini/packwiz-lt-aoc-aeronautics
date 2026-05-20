@@ -1,0 +1,13 @@
+name = "Polly's Pets"
+filename = "pollyspets-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "688819811b6740b1302c04cfbdc484bb43daa243"
+url = "https://mediafilez.forgecdn.net/files/7964/478/pollyspets-0.0.1.jar"
+
+[update]
+[update.curseforge]
+file-id = 7964478
+project-id = 965104

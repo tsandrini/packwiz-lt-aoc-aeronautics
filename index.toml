@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "cf-to-cdn-urls.py"
+hash = "ac80ea8454aa3975ca74f5a7af08c314b0ef6fee5208b5b677977dc57e73ce31"
+
+[[files]]
 file = "mods/aeronautics-claims.pw.toml"
 hash = "42d5621f5d9655abb5aa4e54a022a6baeddb50cb6faab56e67bb96c755e6e931"
 metafile = true
@@ -453,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "92e30dad39091a1acaac8de5d6bd8fc7c945f8b9efc65784c4b4e169f80cb7f6"
+metafile = true
+
+[[files]]
+file = "mods/customtimecycle.pw.toml"
+hash = "15110bf41454b11dae0c2ceedb3d0a7125866469b30edbfbb6805631542b4e02"
 metafile = true
 
 [[files]]

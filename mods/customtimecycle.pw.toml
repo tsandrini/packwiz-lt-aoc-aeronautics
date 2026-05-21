@@ -1,0 +1,13 @@
+name = "Custom Time Cycle"
+filename = "customtimecycle-neoforge-0.1.6-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xuf4fk5b/versions/13EE9lsB/customtimecycle-neoforge-0.1.6-1.21.1.jar"
+hash-format = "sha512"
+hash = "e5d806e8d1e1b689bac068fe8945078567b623410ee58cf9ef7581e10474dd65d6e8233de760f3f1acdf1cc1b3e9c6490d5f64f0c8f5037764997641e5b96522"
+
+[update]
+[update.modrinth]
+mod-id = "Xuf4fk5b"
+version = "13EE9lsB"

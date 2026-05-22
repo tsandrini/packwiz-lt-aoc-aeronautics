@@ -860,6 +860,11 @@ hash = "f5dc034ec66c49a3fd44a8edc530ae76e4935a480479ecc9ea5a6f6afe0904b1"
 metafile = true
 
 [[files]]
+file = "mods/reestrogen.pw.toml"
+hash = "a40757b0de62bde4d09573502942324e12972bc4d279559fd07d68143b8d6fbc"
+metafile = true
+
+[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "7514e728faf6bb16b24a9ef80c1a916a93f80ac1f6365b78f0550e0ca1f1f067"
 metafile = true

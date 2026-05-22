@@ -1,0 +1,13 @@
+name = "ReEstrogen"
+filename = "reestrogen-2.9.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba0878cc06d3f5204f14f386b500543ba68a1448"
+url = "https://mediafilez.forgecdn.net/files/8094/871/reestrogen-2.9.4-neoforge-1.21.1.jar"
+
+[update]
+[update.curseforge]
+file-id = 8094871
+project-id = 1392695

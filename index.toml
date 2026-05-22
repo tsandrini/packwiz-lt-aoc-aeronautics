@@ -180,6 +180,11 @@ hash = "59227d73acf7e7b799ad640a9e27106ea1b8951d3550c4224b6eb3e18e319665"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-climbable-ropes.pw.toml"
+hash = "f5ef95c94d7f98261fe834750b8a2bde221c994ebc61c8907aed90ccafc29d26"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-rechiseled-compatibility.pw.toml"
 hash = "3d69bef37e924253e746b3496adbff38495f92b994e460814dedd098ef07e250"
 metafile = true
@@ -446,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "1fe9a7343355b230614e288586607faec41290969ae7a83261317138d1f26292"
 metafile = true
 
 [[files]]
@@ -815,6 +820,11 @@ hash = "48ae38dc04a1dc4bf6a487613734f9fa75b23a42c267aec38b4afca10dc2334b"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "d4ab5a57ce6de54fb823b7a19989487badf41044adc4ff095c49a00c5eebacd7"
+metafile = true
+
+[[files]]
 file = "mods/pollys-pets.pw.toml"
 hash = "a8fe0b0fe3383ad9e72864a79061aa7a7c4a7dfee90a7b10a67d0b16d9189858"
 metafile = true
@@ -886,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+hash = "7a49bc300416777d758709f73afc9780c0b045b97651131b1120a8b41199f252"
 metafile = true
 
 [[files]]

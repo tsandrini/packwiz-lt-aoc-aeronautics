@@ -1005,6 +1005,11 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
+file = "mods/the-roads-more-travelled.pw.toml"
+hash = "9dcff637bca8afc5d13b66a1469830a7f0d4f76c2f269cecfc148f87282acf90"
+metafile = true
+
+[[files]]
 file = "mods/toast-control.pw.toml"
 hash = "602f1e8d5cea00d1cb5050073e6557be93db461b32dbfa91cd40c0fa150d5350"
 metafile = true

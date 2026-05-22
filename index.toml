@@ -700,6 +700,11 @@ hash = "4cb51891715148b5f8e9f1cf4a04eaf0230702a6a0c7ff54759aaa043c65f641"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "32551cd3db88210863565b772ee47679cbf1eeff163fb93b9ef84a79fa069496"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a6c346581e2202754a3d7c555e4ba7a6f84f41243490ed77941250ec8fd6d144"
 metafile = true
@@ -831,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "e7c571efb7b79731e13dfca1d338439b56e39b5c86a1a523541d3c5d8e69f105"
+hash = "a5170d69ea069773cad9186c1bc7f51bfc82045336292943b176875ccb55b0fe"
 metafile = true
 
 [[files]]
